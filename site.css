@@ -1,0 +1,59 @@
+body {
+    background-color: lightgray;
+}
+
+hr {
+    margin: 20px;
+    border: 3px solid #7C8363;
+    border-radius: 3px;
+}
+
+header,
+footer {
+    margin: 20px;
+    background-color: #EDF4F2;
+    color: #31473A;
+}
+
+#my_output,
+#my_input {
+    margin: 40px;
+}
+
+#my_table {
+    color: #31473A;
+    background-color: #EDF4F2;
+}
+
+table,
+td,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th:hover,
+td:hover {
+    background-color: lightgray;
+}
+
+.tbl_row_headers {
+    padding: 10px;
+    text-align: left;
+}
+
+.tbl_row_eqns {
+    padding: 10px;
+    text-align: left;
+}
+
+.tbl_row_data {
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: left;
+}
+
+#copyright,
+#my_contact {
+    padding: 20px;
+}
